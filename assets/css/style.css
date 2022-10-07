@@ -232,6 +232,11 @@ body {
     top: -23px;
 }
 
+.cartao__botao--pico::before {
+    content: "\e909";
+    font-size: 24px;
+}
+
 @media screen and (min-width: 1440px) {
     body {
         display: grid;
