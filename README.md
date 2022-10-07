@@ -1,4 +1,6 @@
-# Barbearia Alura
+# HCZ
+
+![preview](./.github/preview.png)
 
 >Curso flexbox e grid
 
